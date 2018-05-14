@@ -1,49 +1,50 @@
-Privacy Policy of the Salamanca Bus application
+#Privacy Policy of the Salamanca Bus application
+
 This Application collects some Personal Data from its Users.
-Data Controller and Owner
-Types of Data collected
+##Data Controller and Owner
+##Types of Data collected
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Geographic position, Cookie and Usage Data. Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
-Mode and place of processing the Data
-Methods of processing
+##Mode and place of processing the Data
+###Methods of processing
 The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data. The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.
 
-Place
+###Place
 The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
-Retention time
+###Retention time
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-The use of the collected Data
+##The use of the collected Data
 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Access to third party services' accounts, Location-based interactions, Content commenting and Interaction with external social networks and platforms. The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-Facebook permissions asked by this Application
+##Facebook permissions asked by this Application
 This Application may ask some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy. The permissions asked are the following:
 
-Basic information
+###Basic information
 By default, this includes certain Userâ€™s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the user has made more of their data public, more information will be available.
 
-Checkins
+###Checkins
 Provides read access to the authorized user's check-ins
 
-Email
+###Email
 Provides access to the user's primary email address
 
-Likes
+###Likes
 Provides access to the list of all of the pages the user has liked.
 
-Photos
+###Photos
 Provides access to the photos the user has uploaded, and photos the user has been tagged in.
 
-Publish App Activity
+###Publish App Activity
 Allows the app to publish to the Open Graph using Built-in Actions, Achievements, Scores, or Custom Actions. The app can also publish other activity which is detailed in the Facebook's Publishing Permissions document.
 
-Detailed information on the processing of Personal Data
+##Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
-Access to third party services' accounts
+###Access to third party services' accounts
 These services allow this Application to access Data from your account on a third party service and perform actions with it. These services are not activated automatically, but require explicit authorization by the User.
 
-Access to the Facebook account (This Application)
+###Access to the Facebook account (This Application)
 This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook Inc. Permissions asked: Checkins, Email, Likes, Photos and Publish App Activity. Place of processing : USA â€“ Privacy Policy
 
 Content commenting
